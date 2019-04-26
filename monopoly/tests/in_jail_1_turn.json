@@ -1,0 +1,102 @@
+{
+  "players": [
+    {
+      "name": "greg",
+      "current_position": 10,
+      "cash": 636,
+      "in_game": true,
+      "jail_info": {
+        "in_jail": true,
+        "num_consec_rolls": 1,
+        "turns_in_jail": 1
+      }
+    },
+    {
+      "name": "emmy",
+      "current_position": 11,
+      "cash": 314,
+      "in_game": true,
+      "jail_info": {
+        "in_jail": false,
+        "num_consec_rolls": 0,
+        "turns_in_jail": 0
+      }
+    }
+  ],
+  "owners": [
+    { "tile_id": 1, "owner_name": " " },
+    { "tile_id": 3, "owner_name": " " },
+    { "tile_id": 5, "owner_name": " " },
+    { "tile_id": 6, "owner_name": " " },
+    { "tile_id": 8, "owner_name": "greg" },
+    { "tile_id": 9, "owner_name": " " },
+    { "tile_id": 11, "owner_name": "emmy" },
+    { "tile_id": 12, "owner_name": " " },
+    { "tile_id": 13, "owner_name": "emmy" },
+    { "tile_id": 14, "owner_name": " " },
+    { "tile_id": 15, "owner_name": " " },
+    { "tile_id": 16, "owner_name": " " },
+    { "tile_id": 18, "owner_name": " " },
+    { "tile_id": 19, "owner_name": "emmy" },
+    { "tile_id": 21, "owner_name": " " },
+    { "tile_id": 23, "owner_name": " " },
+    { "tile_id": 24, "owner_name": " " },
+    { "tile_id": 25, "owner_name": " " },
+    { "tile_id": 26, "owner_name": " " },
+    { "tile_id": 27, "owner_name": " " },
+    { "tile_id": 28, "owner_name": "greg" },
+    { "tile_id": 29, "owner_name": " " },
+    { "tile_id": 31, "owner_name": "emmy" },
+    { "tile_id": 32, "owner_name": "greg" },
+    { "tile_id": 34, "owner_name": "greg" },
+    { "tile_id": 35, "owner_name": " " },
+    { "tile_id": 37, "owner_name": " " },
+    { "tile_id": 39, "owner_name": " " }
+  ],
+  "properties": [
+    { "id": 1, "num_houses": 0, "mortgaged": false },
+    { "id": 3, "num_houses": 0, "mortgaged": false },
+    { "id": 5, "num_houses": 0, "mortgaged": false },
+    { "id": 6, "num_houses": 0, "mortgaged": false },
+    { "id": 8, "num_houses": 0, "mortgaged": false },
+    { "id": 9, "num_houses": 0, "mortgaged": false },
+    { "id": 11, "num_houses": 0, "mortgaged": false },
+    { "id": 12, "num_houses": 0, "mortgaged": false },
+    { "id": 13, "num_houses": 0, "mortgaged": false },
+    { "id": 14, "num_houses": 0, "mortgaged": false },
+    { "id": 15, "num_houses": 0, "mortgaged": false },
+    { "id": 16, "num_houses": 0, "mortgaged": false },
+    { "id": 18, "num_houses": 0, "mortgaged": false },
+    { "id": 19, "num_houses": 0, "mortgaged": false },
+    { "id": 21, "num_houses": 0, "mortgaged": false },
+    { "id": 23, "num_houses": 0, "mortgaged": false },
+    { "id": 24, "num_houses": 0, "mortgaged": false },
+    { "id": 25, "num_houses": 0, "mortgaged": false },
+    { "id": 26, "num_houses": 0, "mortgaged": false },
+    { "id": 27, "num_houses": 0, "mortgaged": false },
+    { "id": 28, "num_houses": 0, "mortgaged": false },
+    { "id": 29, "num_houses": 0, "mortgaged": false },
+    { "id": 31, "num_houses": 0, "mortgaged": false },
+    { "id": 32, "num_houses": 0, "mortgaged": false },
+    { "id": 34, "num_houses": 0, "mortgaged": false },
+    { "id": 35, "num_houses": 0, "mortgaged": false },
+    { "id": 37, "num_houses": 0, "mortgaged": false },
+    { "id": 39, "num_houses": 0, "mortgaged": false }
+  ],
+  "current_player_index": 1,
+  "num_players": 2,
+  "gameboard": "monopoly.json",
+  "deck": [
+    { "id": 2 },
+    { "id": 3 },
+    { "id": 4 },
+    { "id": 6 },
+    { "id": 7 },
+    { "id": 8 },
+    { "id": 9 },
+    { "id": 10 },
+    { "id": 11 },
+    { "id": 5 },
+    { "id": 1 }
+  ]
+}

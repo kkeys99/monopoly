@@ -1,0 +1,554 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Mediterranean Avenue",
+      "color": "white",
+      "sale_price": 60,
+      "property_type": "normal",
+      "mortgage_value": 30,
+      "rent": 2,
+      "rent1": 10,
+      "rent2": 30,
+      "rent3": 90,
+      "rent4": 160,
+      "hotel_rent": 250,
+      "building_cost": 50
+    },
+    {
+      "id": 3,
+      "name": "Baltic Avenue",
+      "color": "white",
+      "sale_price": 60,
+      "property_type": "normal",
+      "mortgage_value": 30,
+      "rent": 4,
+      "rent1": 20,
+      "rent2": 60,
+      "rent3": 180,
+      "rent4": 320,
+      "hotel_rent": 450,
+      "building_cost": 50
+    },
+    {
+      "id": 5,
+      "name": "Reading Railroad",
+      "color": "default",
+      "sale_price": 200,
+      "property_type": "railroad",
+      "mortgage_value": 100,
+      "rent": 25,
+      "rent1": 50,
+      "rent2": 100,
+      "rent3": 200,
+      "rent4": 0,
+      "hotel_rent": 0,
+      "building_cost": 0
+    },
+    {
+      "id": 6,
+      "name": "Oriental Avenue",
+      "color": "cyan",
+      "sale_price": 100,
+      "property_type": "normal",
+      "mortgage_value": 50,
+      "rent": 6,
+      "rent1": 30,
+      "rent2": 90,
+      "rent3": 270,
+      "rent4": 400,
+      "hotel_rent": 550,
+      "building_cost": 50
+    },
+    {
+      "id": 8,
+      "name": "Vermont Avenue",
+      "color": "cyan",
+      "sale_price": 100,
+      "property_type": "normal",
+      "mortgage_value": 50,
+      "rent": 6,
+      "rent1": 30,
+      "rent2": 90,
+      "rent3": 270,
+      "rent4": 400,
+      "hotel_rent": 550,
+      "building_cost": 50
+    },
+    {
+      "id": 9,
+      "name": "Connecticut Avenue",
+      "color": "cyan",
+      "sale_price": 120,
+      "property_type": "normal",
+      "mortgage_value": 60,
+      "rent": 8,
+      "rent1": 40,
+      "rent2": 100,
+      "rent3": 300,
+      "rent4": 450,
+      "hotel_rent": 600,
+      "building_cost": 50
+    },
+    {
+      "id": 11,
+      "name": "St.Charles Place",
+      "color": "magenta",
+      "sale_price": 140,
+      "property_type": "normal",
+      "mortgage_value": 70,
+      "rent": 10,
+      "rent1": 50,
+      "rent2": 150,
+      "rent3": 450,
+      "rent4": 625,
+      "hotel_rent": 750,
+      "building_cost": 100
+    },
+    {
+      "id": 12,
+      "name": "Electric Company",
+      "color": "default",
+      "sale_price": 150,
+      "property_type": "utility",
+      "mortgage_value": 75,
+      "rent": 1,
+      "rent1": 0,
+      "rent2": 0,
+      "rent3": 0,
+      "rent4": 0,
+      "hotel_rent": 0,
+      "building_cost": 0
+    },
+    {
+      "id": 13,
+      "name": "States Avenue",
+      "color": "magenta",
+      "sale_price": 140,
+      "property_type": "normal",
+      "mortgage_value": 70,
+      "rent": 10,
+      "rent1": 50,
+      "rent2": 150,
+      "rent3": 450,
+      "rent4": 625,
+      "hotel_rent": 750,
+      "building_cost": 100
+    },
+    {
+      "id": 14,
+      "name": "Virginia Avenue",
+      "color": "magenta",
+      "sale_price": 160,
+      "property_type": "normal",
+      "mortgage_value": 80,
+      "rent": 12,
+      "rent1": 60,
+      "rent2": 180,
+      "rent3": 500,
+      "rent4": 700,
+      "hotel_rent": 900,
+      "building_cost": 100
+    },
+    {
+      "id": 15,
+      "name": "Pennsylvania Railroad",
+      "color": "default",
+      "sale_price": 200,
+      "property_type": "railroad",
+      "mortgage_value": 100,
+      "rent": 25,
+      "rent1": 50,
+      "rent2": 100,
+      "rent3": 200,
+      "rent4": 0,
+      "hotel_rent": 0,
+      "building_cost": 0
+    },
+    {
+      "id": 16,
+      "name": "St.James Place",
+      "color": "black",
+      "sale_price": 180,
+      "property_type": "normal",
+      "mortgage_value": 90,
+      "rent": 14,
+      "rent1": 70,
+      "rent2": 200,
+      "rent3": 550,
+      "rent4": 750,
+      "hotel_rent": 950,
+      "building_cost": 100
+    },
+    {
+      "id": 18,
+      "name": "Tennessee Avenue",
+      "color": "black",
+      "sale_price": 180,
+      "property_type": "normal",
+      "mortgage_value": 90,
+      "rent": 14,
+      "rent1": 70,
+      "rent2": 200,
+      "rent3": 550,
+      "rent4": 750,
+      "hotel_rent": 950,
+      "building_cost": 100
+    },
+    {
+      "id": 19,
+      "name": "N.York Avenue",
+      "color": "black",
+      "sale_price": 200,
+      "property_type": "normal",
+      "mortgage_value": 100,
+      "rent": 16,
+      "rent1": 80,
+      "rent2": 220,
+      "rent3": 600,
+      "rent4": 800,
+      "hotel_rent": 1000,
+      "building_cost": 100
+    },
+    {
+      "id": 21,
+      "name": "Kentucky Avenue",
+      "color": "red",
+      "sale_price": 220,
+      "property_type": "normal",
+      "mortgage_value": 110,
+      "rent": 18,
+      "rent1": 90,
+      "rent2": 250,
+      "rent3": 700,
+      "rent4": 875,
+      "hotel_rent": 1050,
+      "building_cost": 150
+    },
+    {
+      "id": 23,
+      "name": "Indiana Avenue",
+      "color": "red",
+      "sale_price": 220,
+      "property_type": "normal",
+      "mortgage_value": 110,
+      "rent": 18,
+      "rent1": 90,
+      "rent2": 250,
+      "rent3": 700,
+      "rent4": 875,
+      "hotel_rent": 1050,
+      "building_cost": 150
+    },
+    {
+      "id": 24,
+      "name": "Illinois Avenue",
+      "color": "red",
+      "sale_price": 240,
+      "property_type": "normal",
+      "mortgage_value": 120,
+      "rent": 20,
+      "rent1": 100,
+      "rent2": 300,
+      "rent3": 750,
+      "rent4": 925,
+      "hotel_rent": 1100,
+      "building_cost": 150
+    },
+    {
+      "id": 25,
+      "name": "B&O Railroad",
+      "color": "default",
+      "sale_price": 200,
+      "property_type": "railroad",
+      "mortgage_value": 100,
+      "rent": 25,
+      "rent1": 50,
+      "rent2": 100,
+      "rent3": 200,
+      "rent4": 0,
+      "hotel_rent": 0,
+      "building_cost": 0
+    },
+    {
+      "id": 26,
+      "name": "Atlantic Avenue",
+      "color": "yellow",
+      "sale_price": 260,
+      "property_type": "normal",
+      "mortgage_value": 130,
+      "rent": 22,
+      "rent1": 110,
+      "rent2": 330,
+      "rent3": 800,
+      "rent4": 975,
+      "hotel_rent": 1150,
+      "building_cost": 150
+    },
+    {
+      "id": 27,
+      "name": "Ventnor Avenue",
+      "color": "yellow",
+      "sale_price": 260,
+      "property_type": "normal",
+      "mortgage_value": 130,
+      "rent": 22,
+      "rent1": 110,
+      "rent2": 330,
+      "rent3": 800,
+      "rent4": 975,
+      "hotel_rent": 1150,
+      "building_cost": 150
+    },
+    {
+      "id": 28,
+      "name": "Water Works",
+      "color": "default",
+      "sale_price": 150,
+      "property_type": "utility",
+      "mortgage_value": 75,
+      "rent": 1,
+      "rent1": 0,
+      "rent2": 0,
+      "rent3": 0,
+      "rent4": 0,
+      "hotel_rent": 0,
+      "building_cost": 0
+    },
+    {
+      "id": 29,
+      "name": "Marvin Gardens",
+      "color": "yellow",
+      "sale_price": 280,
+      "property_type": "normal",
+      "mortgage_value": 140,
+      "rent": 24,
+      "rent1": 120,
+      "rent2": 360,
+      "rent3": 850,
+      "rent4": 1025,
+      "hotel_rent": 1200,
+      "building_cost": 150
+    },
+    {
+      "id": 31,
+      "name": "Pacific Avenue",
+      "color": "green",
+      "sale_price": 300,
+      "property_type": "normal",
+      "mortgage_value": 150,
+      "rent": 26,
+      "rent1": 130,
+      "rent2": 390,
+      "rent3": 900,
+      "rent4": 1100,
+      "hotel_rent": 1275,
+      "building_cost": 200
+    },
+    {
+      "id": 32,
+      "name": "N.Carolina Avenue",
+      "color": "green",
+      "sale_price": 300,
+      "property_type": "normal",
+      "mortgage_value": 150,
+      "rent": 26,
+      "rent1": 130,
+      "rent2": 390,
+      "rent3": 900,
+      "rent4": 1100,
+      "hotel_rent": 1275,
+      "building_cost": 200
+    },
+    {
+      "id": 34,
+      "name": "Pennsylvania Avenue",
+      "color": "green",
+      "sale_price": 320,
+      "property_type": "normal",
+      "mortgage_value": 160,
+      "rent": 28,
+      "rent1": 150,
+      "rent2": 450,
+      "rent3": 1000,
+      "rent4": 1200,
+      "hotel_rent": 1400,
+      "building_cost": 200
+    },
+    {
+      "id": 35,
+      "name": "Short Line",
+      "color": "default",
+      "sale_price": 200,
+      "property_type": "railroad",
+      "mortgage_value": 100,
+      "rent": 25,
+      "rent1": 50,
+      "rent2": 100,
+      "rent3": 200,
+      "rent4": 0,
+      "hotel_rent": 0,
+      "building_cost": 0
+    },
+    {
+      "id": 37,
+      "name": "Park Place",
+      "color": "blue",
+      "sale_price": 350,
+      "property_type": "normal",
+      "mortgage_value": 175,
+      "rent": 35,
+      "rent1": 175,
+      "rent2": 500,
+      "rent3": 1100,
+      "rent4": 1300,
+      "hotel_rent": 1500,
+      "building_cost": 200
+    },
+    {
+      "id": 39,
+      "name": "Board Walk",
+      "color": "blue",
+      "sale_price": 400,
+      "property_type": "normal",
+      "mortgage_value": 200,
+      "rent": 50,
+      "rent1": 200,
+      "rent2": 600,
+      "rent3": 1400,
+      "rent4": 1700,
+      "hotel_rent": 2000,
+      "building_cost": 200
+    }
+  ],
+  "special_tiles": [
+    {
+      "id": 0,
+      "name": "Collect $200 as you pass GO",
+      "tile_type": "go"
+    },
+    {
+      "id": 2,
+      "name": "Community Chest",
+      "tile_type": "cardtile"
+    },
+    {
+      "id": 4,
+      "name": "Income Tax",
+      "tile_type": "tax"
+    },
+    {
+      "id": 7,
+      "name": "Chance",
+      "tile_type": "cardtile"
+    },
+    {
+      "id": 10,
+      "name": "Just visiting",
+      "tile_type": "free"
+    },
+    {
+      "id": 17,
+      "name": "Community Chest",
+      "tile_type": "cardtile"
+    },
+    {
+      "id": 20,
+      "name": "Free parking",
+      "tile_type": "free"
+    },
+    {
+      "id": 22,
+      "name": "Chance",
+      "tile_type": "cardtile"
+    },
+    {
+      "id": 30,
+      "name": "GO TO JAIL",
+      "tile_type": "jail"
+    },
+    {
+      "id": 33,
+      "name": "Community Chest",
+      "tile_type": "cardtile"
+    },
+    {
+      "id": 36,
+      "name": "Chance",
+      "tile_type": "cardtile"
+    },
+    {
+      "id": 38,
+      "name": "Luxury Tax",
+      "tile_type": "tax"
+    }
+  ],
+  "cards": [
+    {
+      "id": 5,
+      "description": "Go to Jail",
+      "action": "move",
+      "tile_id": 10
+    },
+    {
+      "id": 1,
+      "description": "Bank error in your favor, Collect $200",
+      "action": "transfer",
+      "amount": 200
+    },
+    {
+      "id": 2,
+      "description": "Doctors fees, pay $200",
+      "action": "transfer",
+      "amount": -200
+    },
+    {
+      "id": 3,
+      "description": "Payment from sale of stock, Collect $50",
+      "action": "transfer",
+      "amount": 50
+    },
+    {
+      "id": 4,
+      "description": "Fundraiser, collect $40",
+      "action": "transfer",
+      "amount": 40
+    },
+    {
+      "id": 6,
+      "description": "Grand Opera Night, Collect $50",
+      "action": "transfer",
+      "amount": 50
+    },
+    {
+      "id": 7,
+      "description": "Holiday fund matures, Collect $100",
+      "action": "transfer",
+      "amount": 100
+    },
+    {
+      "id": 8,
+      "description": "Income tax refund, Collect $20",
+      "action": "transfer",
+      "amount": 20
+    },
+    {
+      "id": 9,
+      "action": "transfer",
+      "description": "Life insurace matures, Collect $100",
+      "amount": 100
+    },
+    {
+      "id": 10,
+      "description": "Hospital fees, Pay $50",
+      "action": "transfer",
+      "amount": -50
+    },
+    {
+      "id": 11,
+      "description": "Go Baltic Avenue.",
+      "action": "move",
+      "tile_id": 3
+    }
+  ]
+}
